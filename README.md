@@ -191,6 +191,8 @@ The application returned multiple user records from the database, confirming the
 * Data leakage
 * Authentication bypass
 
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/316dd811-f7d8-4e87-a790-8da663a5363a" />
+
 ---
 
 ## 2. Broken Authentication
